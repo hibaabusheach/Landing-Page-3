@@ -87,7 +87,7 @@ button {
 
 /* ======== Media's ======== */
 /* X-Small device (portrait phones, less than 576px) */
-@media screen and (min-width: 340px) and (max-width: 576px) {
+@media screen and (max-width: 576px) {
     .container{
         text-align: center;
         margin: 0px 0px 24px 10px
